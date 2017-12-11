@@ -1,8 +1,20 @@
-# Awesome - Most Cited Deep Learning Papers
+# Awesome Deep Learning Papers
+
+
+These guys were the first ones to beat human level accuracy on ImageNet 2012 on deep networks:
+
+https://arxiv.org/pdf/1502.01852.pdf
+
+Mogelmose's thesis is a contribution to the field of computer vision around traffic light and sign classification:
+
+moegelmose.com/p10/report.pdf
+
+
+
+
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of the most cited deep learning papers (since 2012)
 
 We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awesome deep learning papers which are considered as *must-reads* in certain researh domains.
 
