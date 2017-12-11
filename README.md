@@ -10,6 +10,9 @@ Mogelmose's thesis is a contribution to the field of computer vision around traf
 http://moegelmose.com/p10/report.pdf
 
 
+Surpassing Human-Level Performance on ImageNet Classification, mentions problems that come with the convolutional neural net VGG16:
+
+https://arxiv.org/pdf/1502.01852.pdf
 
 
 
