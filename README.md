@@ -7,7 +7,7 @@ https://arxiv.org/pdf/1502.01852.pdf
 
 Mogelmose's thesis is a contribution to the field of computer vision around traffic light and sign classification:
 
-moegelmose.com/p10/report.pdf
+http://moegelmose.com/p10/report.pdf
 
 
 
