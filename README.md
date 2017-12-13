@@ -31,28 +31,9 @@ Before this list, there exist other *awesome deep learning lists*, for example, 
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
-## Awesome list criteria
+**Contributions!** 
 
-1. A list of **top 100 deep learning papers** published from 2012 to 2016 is suggested.
-2. If a paper is added to the list, another paper (usually from *More Papers from 2016" section) should be removed to keep top 100 papers. (Thus, removing papers is also important contributions as well as adding papers)
-3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section. 
-4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
-
-*(Citation criteria)*
-- **< 6 months** : *New Papers* (by discussion)
-- **2016** :  +60 citations or "More Papers from 2016"
-- **2015** :  +200 citations 
-- **2014** :  +400 citations 
-- **2013** :  +600 citations 
-- **2012** :  +800 citations
-- **~2012** : *Old Papers* (by discussion)
-
-Please note that we prefer seminal deep learning papers that can be applied to various researches rather than application papers. For that reason, some papers that meet the criteria may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
-
-**We need your contributions!** 
-
-If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
-(Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for futher instructions, though just letting me know the title of papers can also be a big contribution to us.)
+Fork, change, improve, Evolve by natural/artifical selection.  
 
 ## Table of Contents
 
