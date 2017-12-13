@@ -1,4 +1,4 @@
-# Awesome Deep Learning Papers
+# New Awesome Deep Learning Papers
 
 MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation by Lex Fridman, Daniel E. Brown, Michael Glazer, William Angell, Spencer Dodd:
 
@@ -20,10 +20,10 @@ https://arxiv.org/pdf/1502.01852.pdf
 
 
 
+# Old Awesome Deep Learning Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We believe that there exist *classic* deep learning papers which are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, We would like to provide a *curated list* of the awesome deep learning papers which are considered as *must-reads* in certain researh domains.
+*classic* deep learning papers are worth reading regardless of their application domain. Rather than providing overwhelming amount of papers, a *curated list* of white papers are considered as *must-reads* in certain researh domains.
 
 ## Background
 
