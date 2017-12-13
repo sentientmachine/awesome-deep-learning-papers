@@ -1,5 +1,9 @@
 # Awesome Deep Learning Papers
 
+MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation by Lex Fridman, Daniel E. Brown, Michael Glazer, William Angell, Spencer Dodd:
+
+https://arxiv.org/pdf/1711.06976.pdf
+
 
 These guys were the first ones to beat human level accuracy on ImageNet 2012 on deep networks:
 
