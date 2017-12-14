@@ -1,5 +1,13 @@
 # New Awesome Deep Learning Papers
 
+
+Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks.  Ian J. Goodfellow.
+
+https://arxiv.org/abs/1312.6082  and https://arxiv.org/pdf/1312.6082.pdf
+
+
+
+
 MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation by Lex Fridman, Daniel E. Brown, Michael Glazer, William Angell, Spencer Dodd:
 
 https://arxiv.org/pdf/1711.06976.pdf
