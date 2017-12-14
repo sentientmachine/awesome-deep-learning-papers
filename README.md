@@ -27,6 +27,10 @@ Surpassing Human-Level Performance on ImageNet Classification, mentions problems
 https://arxiv.org/pdf/1502.01852.pdf
 
 
+Locating objects in natural world images: 
+
+http://slazebni.cs.illinois.edu/publications/iccv15_active.pdf
+
 
 # Old Awesome Deep Learning Papers
 
