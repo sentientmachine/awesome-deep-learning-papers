@@ -1,7 +1,7 @@
 # New Awesome Deep Learning Papers
 
 
-Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks.  Ian J. Goodfellow.
+Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks.  Ian J. Goodfellow.  You could tune one of these to break captchas: 
 
 https://arxiv.org/abs/1312.6082  and https://arxiv.org/pdf/1312.6082.pdf
 
